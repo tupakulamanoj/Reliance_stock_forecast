@@ -1,0 +1,556 @@
+[ 2023-09-26 13:05:44,175 ] 19 root - All modules are sucessfully imported
+[ 2023-09-26 13:05:44,175 ] 11 root - Data path created for Artifacts1
+[ 2023-09-26 13:05:44,176 ] 17 root - Data read sucessfully!
+[ 2023-09-26 13:05:44,192 ] 20 root - data ingestion sucessfully!
+[ 2023-09-26 13:05:44,193 ] 21 root - data transformation started!
+[ 2023-09-26 13:05:44,444 ] 36 root - data transformation sucessfully completed
+[ 2023-09-26 13:05:44,508 ] 38 root - data is ready for model training
+[ 2023-09-26 13:05:44,524 ] 27 root - data read sucessfully
+[ 2023-09-26 13:05:44,524 ] 32 root - Close model testing started
+[ 2023-09-26 13:05:44,528 ] 34 root - Close data splitted sucessfully
+[ 2023-09-26 13:05:44,529 ] 82 root - hyper tuning started for Close data
+[ 2023-09-26 13:05:44,529 ] 95 root - grid search cv is started
+[ 2023-09-26 13:05:44,554 ] 95 root - grid search cv is started
+[ 2023-09-26 13:07:37,449 ] 19 root - All modules are sucessfully imported
+[ 2023-09-26 13:07:37,449 ] 11 root - Data path created for Artifacts1
+[ 2023-09-26 13:07:37,450 ] 17 root - Data read sucessfully!
+[ 2023-09-26 13:07:37,465 ] 20 root - data ingestion sucessfully!
+[ 2023-09-26 13:07:37,465 ] 21 root - data transformation started!
+[ 2023-09-26 13:07:37,695 ] 36 root - data transformation sucessfully completed
+[ 2023-09-26 13:07:37,769 ] 38 root - data is ready for model training
+[ 2023-09-26 13:07:37,787 ] 27 root - data read sucessfully
+[ 2023-09-26 13:07:37,788 ] 32 root - Close model testing started
+[ 2023-09-26 13:07:37,790 ] 34 root - Close data splitted sucessfully
+[ 2023-09-26 13:07:37,791 ] 82 root - hyper tuning started for Close data
+[ 2023-09-26 13:07:37,791 ] 95 root - grid search cv is started
+[ 2023-09-26 13:07:37,817 ] 95 root - grid search cv is started
+[ 2023-09-26 13:08:23,745 ] 19 root - All modules are sucessfully imported
+[ 2023-09-26 13:08:23,745 ] 11 root - Data path created for Artifacts1
+[ 2023-09-26 13:08:23,746 ] 17 root - Data read sucessfully!
+[ 2023-09-26 13:08:23,777 ] 20 root - data ingestion sucessfully!
+[ 2023-09-26 13:08:23,777 ] 21 root - data transformation started!
+[ 2023-09-26 13:08:23,987 ] 36 root - data transformation sucessfully completed
+[ 2023-09-26 13:08:24,044 ] 38 root - data is ready for model training
+[ 2023-09-26 13:09:24,342 ] 19 root - All modules are sucessfully imported
+[ 2023-09-26 13:09:24,342 ] 11 root - Data path created for Artifacts1
+[ 2023-09-26 13:09:24,343 ] 17 root - Data read sucessfully!
+[ 2023-09-26 13:09:24,358 ] 20 root - data ingestion sucessfully!
+[ 2023-09-26 13:09:24,359 ] 21 root - data transformation started!
+[ 2023-09-26 13:09:24,576 ] 36 root - data transformation sucessfully completed
+[ 2023-09-26 13:09:24,646 ] 38 root - data is ready for model training
+[ 2023-09-26 13:09:24,661 ] 27 root - data read sucessfully
+[ 2023-09-26 13:09:24,662 ] 32 root - Close model testing started
+[ 2023-09-26 13:09:24,664 ] 34 root - Close data splitted sucessfully
+[ 2023-09-26 13:09:24,664 ] 82 root - hyper tuning started for Close data
+[ 2023-09-26 13:09:24,664 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:24,670 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:26,699 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:29,369 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:29,403 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:29,421 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:30,830 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:30,989 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:31,279 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:31,528 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:31,545 ] 108 root - algorithm {LinearRegression(): 0.6995882250171419, RandomForestRegressor(): 0.9993323868983409, SVR(): -0.08586801665138521, DecisionTreeRegressor(): 0.9992336990713022, ExtraTreeRegressor(): 0.9991978572073787, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9988462225245625, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9913303977655686, GradientBoostingRegressor(): 0.9916131539028266, AdaBoostRegressor(): 0.9817585312874176, KNeighborsRegressor(): 0.9815032598074785}
+[ 2023-09-26 13:09:31,546 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 13:09:33,502 ] 114 root - pickle file created for best model
+[ 2023-09-26 13:09:33,557 ] 32 root - Open model testing started
+[ 2023-09-26 13:09:33,559 ] 34 root - Open data splitted sucessfully
+[ 2023-09-26 13:09:33,559 ] 82 root - hyper tuning started for Open data
+[ 2023-09-26 13:09:33,559 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:33,563 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:35,630 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,292 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,317 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,333 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,484 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,634 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:38,923 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:39,192 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:39,209 ] 108 root - algorithm {LinearRegression(): 0.6712530897597175, RandomForestRegressor(): 0.9991551834316743, SVR(): -0.07869647446229622, DecisionTreeRegressor(): 0.9980323606593512, ExtraTreeRegressor(): 0.9990058201559207, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9988132337723437, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9904520436687686, GradientBoostingRegressor(): 0.98967282958876, AdaBoostRegressor(): 0.9797477875449803, KNeighborsRegressor(): 0.9803019496108396}
+[ 2023-09-26 13:09:39,210 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 13:09:41,279 ] 114 root - pickle file created for best model
+[ 2023-09-26 13:09:41,338 ] 32 root - High model testing started
+[ 2023-09-26 13:09:41,340 ] 34 root - High data splitted sucessfully
+[ 2023-09-26 13:09:41,340 ] 82 root - hyper tuning started for High data
+[ 2023-09-26 13:09:41,340 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:41,345 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:43,430 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,116 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,147 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,168 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,350 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,536 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:46,836 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:47,087 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:47,107 ] 108 root - algorithm {LinearRegression(): 0.6923508320851501, RandomForestRegressor(): 0.9992258756740913, SVR(): -0.07343689257542763, DecisionTreeRegressor(): 0.9990076238752773, ExtraTreeRegressor(): 0.9992367545391778, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9988260639236674, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9908635896499406, GradientBoostingRegressor(): 0.991286874539913, AdaBoostRegressor(): 0.9799953604819232, KNeighborsRegressor(): 0.9804133973766329}
+[ 2023-09-26 13:09:47,107 ] 109 root - best model for data forecasting ExtraTreeRegressor()
+[ 2023-09-26 13:09:47,132 ] 114 root - pickle file created for best model
+[ 2023-09-26 13:09:47,135 ] 32 root - Low model testing started
+[ 2023-09-26 13:09:47,138 ] 34 root - Low data splitted sucessfully
+[ 2023-09-26 13:09:47,138 ] 82 root - hyper tuning started for Low data
+[ 2023-09-26 13:09:47,138 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:47,146 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:49,232 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,052 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,081 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,098 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,260 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,417 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:52,769 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:53,076 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:53,094 ] 108 root - algorithm {LinearRegression(): 0.6877065522786827, RandomForestRegressor(): 0.9993467658367496, SVR(): -0.08375769196496674, DecisionTreeRegressor(): 0.999220497278803, ExtraTreeRegressor(): 0.9994230640714404, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9989339480912998, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9900305195592152, GradientBoostingRegressor(): 0.9903974201347835, AdaBoostRegressor(): 0.9810100395243814, KNeighborsRegressor(): 0.9800852164977476}
+[ 2023-09-26 13:09:53,094 ] 109 root - best model for data forecasting ExtraTreeRegressor()
+[ 2023-09-26 13:09:53,117 ] 114 root - pickle file created for best model
+[ 2023-09-26 13:09:53,120 ] 32 root - Volume model testing started
+[ 2023-09-26 13:09:53,122 ] 34 root - Volume data splitted sucessfully
+[ 2023-09-26 13:09:53,122 ] 82 root - hyper tuning started for Volume data
+[ 2023-09-26 13:09:53,122 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:53,130 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:55,341 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:57,972 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,005 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,024 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,229 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,394 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,726 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,864 ] 95 root - grid search cv is started
+[ 2023-09-26 13:09:58,888 ] 108 root - algorithm {LinearRegression(): 0.2793475425369065, RandomForestRegressor(): 0.5584495932426005, SVR(): -0.16015145647147522, DecisionTreeRegressor(): 0.3221638211864013, ExtraTreeRegressor(): 0.3590915402234174, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.4260753508462707, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.5656882537792769, GradientBoostingRegressor(): 0.5840360928912246, AdaBoostRegressor(): -0.2613194465472892, KNeighborsRegressor(): 0.4689284779469898}
+[ 2023-09-26 13:09:58,889 ] 109 root - best model for data forecasting GradientBoostingRegressor()
+[ 2023-09-26 13:09:59,211 ] 114 root - pickle file created for best model
+[ 2023-09-26 13:11:32,994 ] 9 root - data forecasting has started
+[ 2023-09-26 13:11:34,192 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close        Volume
+0  2023-09-26 13:11:32.995589  2418.718027  2375.149902  2417.800049  2412.397502  6.183891e+06
+1  2023-09-27 13:11:32.995589  2401.861511  2327.100098  2426.000000  2389.044995  6.509831e+06
+2  2023-09-28 13:11:32.995589  2396.624504  2327.100098  2378.000000  2360.953474  6.388889e+06
+3  2023-09-29 13:11:32.995589  2376.381001  2311.000000  2367.500000  2346.764524  6.388889e+06
+4  2023-09-30 13:11:32.995589  2344.155500  2311.000000  2402.000000  2375.981008  6.245959e+06
+5  2023-10-01 13:11:32.995589  2409.813999  2363.000000  2416.949951  2393.850500  5.703516e+06
+6  2023-10-02 13:11:32.995589  2408.923999  2363.000000  2416.949951  2396.538499  4.599822e+06
+7  2023-10-03 13:11:32.995589  2406.178503  2363.000000  2416.949951  2389.822502  5.515278e+06
+8  2023-10-04 13:11:32.995589  2404.958521  2390.149902  2418.000000  2411.743977  5.243534e+06
+9  2023-10-05 13:11:32.995589  2409.668020  2418.149902  2418.000000  2413.309978  5.243534e+06
+10 2023-10-06 13:11:32.995589  2420.790469  2418.149902  2450.000000  2430.335054  5.297097e+06
+[ 2023-09-26 13:11:34,222 ] 187 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-09-26 13:11:34,222 ] 187 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-09-26 13:11:34,224 ] 187 werkzeug -  * Restarting with stat
+[ 2023-09-26 13:11:35,439 ] 9 root - data forecasting has started
+[ 2023-09-26 13:11:36,614 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close        Volume
+0  2023-09-26 13:11:35.439450  2418.718027  2375.149902  2417.800049  2412.397502  6.183891e+06
+1  2023-09-27 13:11:35.439450  2401.861511  2327.100098  2426.000000  2389.044995  6.509831e+06
+2  2023-09-28 13:11:35.439450  2396.624504  2327.100098  2378.000000  2360.953474  6.388889e+06
+3  2023-09-29 13:11:35.439450  2376.381001  2311.000000  2367.500000  2346.764524  6.388889e+06
+4  2023-09-30 13:11:35.439450  2344.155500  2311.000000  2402.000000  2375.981008  6.245959e+06
+5  2023-10-01 13:11:35.439450  2409.813999  2363.000000  2416.949951  2393.850500  5.703516e+06
+6  2023-10-02 13:11:35.439450  2408.923999  2363.000000  2416.949951  2396.538499  4.599822e+06
+7  2023-10-03 13:11:35.439450  2406.178503  2363.000000  2416.949951  2389.822502  5.515278e+06
+8  2023-10-04 13:11:35.439450  2404.958521  2390.149902  2418.000000  2411.743977  5.243534e+06
+9  2023-10-05 13:11:35.439450  2409.668020  2418.149902  2418.000000  2413.309978  5.243534e+06
+10 2023-10-06 13:11:35.439450  2420.790469  2418.149902  2450.000000  2430.335054  5.297097e+06
+[ 2023-09-26 13:11:36,628 ] 187 werkzeug -  * Debugger is active!
+[ 2023-09-26 13:11:36,634 ] 187 werkzeug -  * Debugger PIN: 637-886-989
+[ 2023-09-26 13:11:47,064 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:47] "GET / HTTP/1.1" 200 -
+[ 2023-09-26 13:11:47,535 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:47] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-09-26 13:11:47,595 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-26 13:11:56,037 ] 9 root - data forecasting has started
+[ 2023-09-26 13:11:56,581 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close        Volume
+0  2023-09-26 13:11:56.037588  2418.718027  2375.149902  2417.800049  2412.397502  6.183891e+06
+1  2023-09-27 13:11:56.037588  2401.861511  2327.100098  2426.000000  2389.044995  6.509831e+06
+2  2023-09-28 13:11:56.037588  2396.624504  2327.100098  2378.000000  2360.953474  6.388889e+06
+3  2023-09-29 13:11:56.037588  2376.381001  2311.000000  2367.500000  2346.764524  6.388889e+06
+4  2023-09-30 13:11:56.037588  2344.155500  2311.000000  2402.000000  2375.981008  6.245959e+06
+5  2023-10-01 13:11:56.037588  2409.813999  2363.000000  2416.949951  2393.850500  5.703516e+06
+6  2023-10-02 13:11:56.037588  2408.923999  2363.000000  2416.949951  2396.538499  4.599822e+06
+7  2023-10-03 13:11:56.037588  2406.178503  2363.000000  2416.949951  2389.822502  5.515278e+06
+8  2023-10-04 13:11:56.037588  2404.958521  2390.149902  2418.000000  2411.743977  5.243534e+06
+9  2023-10-05 13:11:56.037588  2409.668020  2418.149902  2418.000000  2413.309978  5.243534e+06
+10 2023-10-06 13:11:56.037588  2420.790469  2418.149902  2450.000000  2430.335054  5.297097e+06
+[ 2023-09-26 13:11:56,591 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:56] "POST / HTTP/1.1" 200 -
+[ 2023-09-26 13:11:56,606 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:56] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-09-26 13:11:58,559 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:11:58] "POST /visualize HTTP/1.1" 200 -
+[ 2023-09-26 13:24:27,122 ] 9 root - data forecasting has started
+[ 2023-09-26 13:24:28,721 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close        Volume
+0  2023-09-26 13:24:27.123639  2418.718027  2375.149902  2417.800049  2412.397502  6.183891e+06
+1  2023-09-27 13:24:27.123639  2401.861511  2327.100098  2426.000000  2389.044995  6.509831e+06
+2  2023-09-28 13:24:27.123639  2396.624504  2327.100098  2378.000000  2360.953474  6.388889e+06
+3  2023-09-29 13:24:27.123639  2376.381001  2311.000000  2367.500000  2346.764524  6.388889e+06
+4  2023-09-30 13:24:27.123639  2344.155500  2311.000000  2402.000000  2375.981008  6.245959e+06
+5  2023-10-01 13:24:27.123639  2409.813999  2363.000000  2416.949951  2393.850500  5.703516e+06
+6  2023-10-02 13:24:27.123639  2408.923999  2363.000000  2416.949951  2396.538499  4.599822e+06
+7  2023-10-03 13:24:27.123639  2406.178503  2363.000000  2416.949951  2389.822502  5.515278e+06
+8  2023-10-04 13:24:27.123639  2404.958521  2390.149902  2418.000000  2411.743977  5.243534e+06
+9  2023-10-05 13:24:27.123639  2409.668020  2418.149902  2418.000000  2413.309978  5.243534e+06
+10 2023-10-06 13:24:27.123639  2420.790469  2418.149902  2450.000000  2430.335054  5.297097e+06
+[ 2023-09-26 13:24:28,749 ] 187 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-09-26 13:24:28,749 ] 187 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-09-26 13:24:28,751 ] 187 werkzeug -  * Restarting with stat
+[ 2023-09-26 13:24:29,779 ] 9 root - data forecasting has started
+[ 2023-09-26 13:24:31,298 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close        Volume
+0  2023-09-26 13:24:29.779943  2418.718027  2375.149902  2417.800049  2412.397502  6.183891e+06
+1  2023-09-27 13:24:29.779943  2401.861511  2327.100098  2426.000000  2389.044995  6.509831e+06
+2  2023-09-28 13:24:29.779943  2396.624504  2327.100098  2378.000000  2360.953474  6.388889e+06
+3  2023-09-29 13:24:29.779943  2376.381001  2311.000000  2367.500000  2346.764524  6.388889e+06
+4  2023-09-30 13:24:29.779943  2344.155500  2311.000000  2402.000000  2375.981008  6.245959e+06
+5  2023-10-01 13:24:29.779943  2409.813999  2363.000000  2416.949951  2393.850500  5.703516e+06
+6  2023-10-02 13:24:29.779943  2408.923999  2363.000000  2416.949951  2396.538499  4.599822e+06
+7  2023-10-03 13:24:29.779943  2406.178503  2363.000000  2416.949951  2389.822502  5.515278e+06
+8  2023-10-04 13:24:29.779943  2404.958521  2390.149902  2418.000000  2411.743977  5.243534e+06
+9  2023-10-05 13:24:29.779943  2409.668020  2418.149902  2418.000000  2413.309978  5.243534e+06
+10 2023-10-06 13:24:29.779943  2420.790469  2418.149902  2450.000000  2430.335054  5.297097e+06
+[ 2023-09-26 13:24:31,309 ] 187 werkzeug -  * Debugger is active!
+[ 2023-09-26 13:24:31,315 ] 187 werkzeug -  * Debugger PIN: 637-886-989
+[ 2023-09-26 13:24:44,392 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:24:44] "GET / HTTP/1.1" 200 -
+[ 2023-09-26 13:24:44,640 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 13:24:44] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-09-26 14:53:26,702 ] 19 root - All modules are sucessfully imported
+[ 2023-09-26 14:53:26,702 ] 11 root - Data path created for Artifacts1
+[ 2023-09-26 14:53:26,703 ] 17 root - Data read sucessfully!
+[ 2023-09-26 14:53:26,733 ] 20 root - data ingestion sucessfully!
+[ 2023-09-26 14:53:26,733 ] 21 root - data transformation started!
+[ 2023-09-26 14:53:26,865 ] 36 root - data transformation sucessfully completed
+[ 2023-09-26 14:53:26,899 ] 38 root - data is ready for model training
+[ 2023-09-26 14:53:26,909 ] 27 root - data read sucessfully
+[ 2023-09-26 14:53:26,910 ] 32 root - Close model testing started
+[ 2023-09-26 14:53:26,912 ] 34 root - Close data splitted sucessfully
+[ 2023-09-26 14:53:26,912 ] 82 root - hyper tuning started for Close data
+[ 2023-09-26 14:53:26,913 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:26,928 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:27,999 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:29,282 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:29,301 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:29,311 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:29,773 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:29,877 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:30,069 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:30,201 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:30,215 ] 108 root - algorithm {LinearRegression(): 0.6761951518462143, RandomForestRegressor(): 0.9993709138630685, SVR(): -0.059709192171293335, DecisionTreeRegressor(): 0.9992367547487425, ExtraTreeRegressor(): 0.9992916499178397, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9988113585342581, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9895639602232242, GradientBoostingRegressor(): 0.9894241230855163, AdaBoostRegressor(): 0.9765597114453646, KNeighborsRegressor(): 0.9770261726950558}
+[ 2023-09-26 14:53:30,215 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 14:53:31,327 ] 114 root - pickle file created for best model
+[ 2023-09-26 14:53:31,380 ] 32 root - Open model testing started
+[ 2023-09-26 14:53:31,381 ] 34 root - Open data splitted sucessfully
+[ 2023-09-26 14:53:31,381 ] 82 root - hyper tuning started for Open data
+[ 2023-09-26 14:53:31,382 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:31,385 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:32,446 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:33,709 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:33,724 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:33,734 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:33,823 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:33,910 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:34,085 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:34,218 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:34,227 ] 108 root - algorithm {LinearRegression(): 0.6905022768240465, RandomForestRegressor(): 0.9992261901160849, SVR(): -0.10436987418609212, DecisionTreeRegressor(): 0.999033407150276, ExtraTreeRegressor(): 0.9991816420850113, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9987779929211926, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.991570556285621, GradientBoostingRegressor(): 0.9915602710530022, AdaBoostRegressor(): 0.9826681343072204, KNeighborsRegressor(): 0.9790110401802872}
+[ 2023-09-26 14:53:34,227 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 14:53:35,385 ] 114 root - pickle file created for best model
+[ 2023-09-26 14:53:35,421 ] 32 root - High model testing started
+[ 2023-09-26 14:53:35,422 ] 34 root - High data splitted sucessfully
+[ 2023-09-26 14:53:35,422 ] 82 root - hyper tuning started for High data
+[ 2023-09-26 14:53:35,422 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:35,425 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:36,463 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:37,752 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:37,767 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:37,775 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:37,886 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:37,976 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:38,170 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:38,306 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:38,315 ] 108 root - algorithm {LinearRegression(): 0.6987474539622214, RandomForestRegressor(): 0.9994784442237968, SVR(): -0.08068312409018885, DecisionTreeRegressor(): 0.9992471246099914, ExtraTreeRegressor(): 0.9992313889872751, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9989318078505158, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9917884306280539, GradientBoostingRegressor(): 0.9924612444571396, AdaBoostRegressor(): 0.9815972277104399, KNeighborsRegressor(): 0.9825993375059509}
+[ 2023-09-26 14:53:38,315 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 14:53:39,427 ] 114 root - pickle file created for best model
+[ 2023-09-26 14:53:39,468 ] 32 root - Low model testing started
+[ 2023-09-26 14:53:39,469 ] 34 root - Low data splitted sucessfully
+[ 2023-09-26 14:53:39,469 ] 82 root - hyper tuning started for Low data
+[ 2023-09-26 14:53:39,470 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:39,472 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:40,707 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:41,998 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,013 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,023 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,200 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,336 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,567 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,720 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:42,732 ] 108 root - algorithm {LinearRegression(): 0.6827674462598088, RandomForestRegressor(): 0.9994580979316356, SVR(): -0.07311663576747973, DecisionTreeRegressor(): 0.9993387852953256, ExtraTreeRegressor(): 0.9994469511171882, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.9990847385461699, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.9912834114068109, GradientBoostingRegressor(): 0.9915805965279951, AdaBoostRegressor(): 0.9821448486982076, KNeighborsRegressor(): 0.9796353139921804}
+[ 2023-09-26 14:53:42,732 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 14:53:43,871 ] 114 root - pickle file created for best model
+[ 2023-09-26 14:53:43,927 ] 32 root - Volume model testing started
+[ 2023-09-26 14:53:43,929 ] 34 root - Volume data splitted sucessfully
+[ 2023-09-26 14:53:43,929 ] 82 root - hyper tuning started for Volume data
+[ 2023-09-26 14:53:43,929 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:43,933 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:45,068 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,375 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,392 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,403 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,512 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,649 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,877 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,917 ] 95 root - grid search cv is started
+[ 2023-09-26 14:53:46,926 ] 108 root - algorithm {LinearRegression(): 0.26187851660176065, RandomForestRegressor(): 0.6099360723289712, SVR(): -0.12024117393922396, DecisionTreeRegressor(): 0.3757880231512113, ExtraTreeRegressor(): 0.41360125962781, XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=None, n_jobs=None,
+             num_parallel_tree=None, random_state=None, ...): 0.5738226499518193, XGBRFRegressor(base_score=None, booster=None, callbacks=None,
+               colsample_bylevel=None, colsample_bytree=None, device=None,
+               early_stopping_rounds=None, enable_categorical=False,
+               eval_metric=None, feature_types=None, gamma=None,
+               grow_policy=None, importance_type=None,
+               interaction_constraints=None, max_bin=None,
+               max_cat_threshold=None, max_cat_to_onehot=None,
+               max_delta_step=None, max_depth=None, max_leaves=None,
+               min_child_weight=None, missing=nan, monotone_constraints=None,
+               multi_strategy=None, n_estimators=None, n_jobs=None,
+               num_parallel_tree=None, objective='reg:squarederror',
+               random_state=None, reg_alpha=None, ...): 0.5961825640843099, GradientBoostingRegressor(): 0.5941519856872468, AdaBoostRegressor(): 0.13630316384923036, KNeighborsRegressor(): 0.46603349751582424}
+[ 2023-09-26 14:53:46,927 ] 109 root - best model for data forecasting RandomForestRegressor()
+[ 2023-09-26 14:53:48,060 ] 114 root - pickle file created for best model
+[ 2023-09-26 14:54:00,994 ] 9 root - data forecasting has started
+[ 2023-09-26 14:54:02,068 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close      Volume
+0  2023-09-26 14:54:00.995451  2430.500032  2385.938975  2433.390022  2398.939566  5521521.98
+1  2023-09-27 14:54:00.995451  2403.695515  2365.729551  2423.262507  2396.772517  5418918.95
+2  2023-09-28 14:54:00.995451  2374.890567  2338.926587  2392.390500  2358.199482  7904827.06
+3  2023-09-29 14:54:00.995451  2364.883023  2338.119038  2375.910500  2344.185520  8069761.38
+4  2023-09-30 14:54:00.995451  2335.392009  2356.655044  2403.289500  2371.795508  8762513.72
+5  2023-10-01 14:54:00.995451  2403.183999  2379.827969  2437.844978  2401.636008  7273444.07
+6  2023-10-02 14:54:00.995451  2403.272500  2380.475969  2439.032480  2401.318503  4868202.89
+7  2023-10-03 14:54:00.995451  2403.943501  2378.598970  2432.910976  2397.024006  4275140.77
+8  2023-10-04 14:54:00.995451  2405.163523  2386.302427  2433.476494  2411.405493  4617459.88
+9  2023-10-05 14:54:00.995451  2408.293523  2394.023413  2434.923987  2419.649014  5200844.58
+10 2023-10-06 14:54:00.995451  2424.790478  2413.371904  2435.268484  2429.480086  5505150.80
+[ 2023-09-26 14:54:02,104 ] 187 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-09-26 14:54:02,104 ] 187 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-09-26 14:54:02,108 ] 187 werkzeug -  * Restarting with stat
+[ 2023-09-26 14:54:02,756 ] 9 root - data forecasting has started
+[ 2023-09-26 14:54:03,665 ] 44 root - forecast data for reliance industries for 10 is                          Date         Open          Low         High        Close      Volume
+0  2023-09-26 14:54:02.757215  2430.500032  2385.938975  2433.390022  2398.939566  5521521.98
+1  2023-09-27 14:54:02.757215  2403.695515  2365.729551  2423.262507  2396.772517  5418918.95
+2  2023-09-28 14:54:02.757215  2374.890567  2338.926587  2392.390500  2358.199482  7904827.06
+3  2023-09-29 14:54:02.757215  2364.883023  2338.119038  2375.910500  2344.185520  8069761.38
+4  2023-09-30 14:54:02.757215  2335.392009  2356.655044  2403.289500  2371.795508  8762513.72
+5  2023-10-01 14:54:02.757215  2403.183999  2379.827969  2437.844978  2401.636008  7273444.07
+6  2023-10-02 14:54:02.757215  2403.272500  2380.475969  2439.032480  2401.318503  4868202.89
+7  2023-10-03 14:54:02.757215  2403.943501  2378.598970  2432.910976  2397.024006  4275140.77
+8  2023-10-04 14:54:02.757215  2405.163523  2386.302427  2433.476494  2411.405493  4617459.88
+9  2023-10-05 14:54:02.757215  2408.293523  2394.023413  2434.923987  2419.649014  5200844.58
+10 2023-10-06 14:54:02.757215  2424.790478  2413.371904  2435.268484  2429.480086  5505150.80
+[ 2023-09-26 14:54:03,678 ] 187 werkzeug -  * Debugger is active!
+[ 2023-09-26 14:54:03,681 ] 187 werkzeug -  * Debugger PIN: 637-886-989
+[ 2023-09-26 14:54:05,088 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 14:54:05] "GET / HTTP/1.1" 200 -
+[ 2023-09-26 14:54:05,283 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 14:54:05] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-09-26 14:54:08,649 ] 9 root - data forecasting has started
+[ 2023-09-26 14:54:09,395 ] 44 root - forecast data for reliance industries for 100 is                           Date         Open          Low         High        Close      Volume
+0   2023-09-26 14:54:08.649043  2430.500032  2385.938975  2433.390022  2398.939566  5521521.98
+1   2023-09-27 14:54:08.649043  2403.695515  2365.729551  2423.262507  2396.772517  5418918.95
+2   2023-09-28 14:54:08.649043  2374.890567  2338.926587  2392.390500  2358.199482  7904827.06
+3   2023-09-29 14:54:08.649043  2364.883023  2338.119038  2375.910500  2344.185520  8069761.38
+4   2023-09-30 14:54:08.649043  2335.392009  2356.655044  2403.289500  2371.795508  8762513.72
+..                         ...          ...          ...          ...          ...         ...
+96  2023-12-31 14:54:08.649043  2598.141555  2585.756555  2587.150464  2659.152571  5980015.56
+97  2024-01-01 14:54:08.649043  2396.465994  2380.388533  2434.566980  2418.416595  6500366.19
+98  2024-01-02 14:54:08.649043  2396.395994  2381.557532  2433.962976  2418.416595  5856491.36
+99  2024-01-03 14:54:08.649043  2393.255994  2380.982026  2434.051475  2418.416595  5353717.52
+100 2024-01-04 14:54:08.649043  2392.625994  2396.893508  2434.051475  2439.459595  5369263.31
+
+[101 rows x 6 columns]
+[ 2023-09-26 14:54:09,417 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 14:54:09] "POST / HTTP/1.1" 200 -
+[ 2023-09-26 14:54:09,470 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 14:54:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-09-26 14:54:11,749 ] 187 werkzeug - 127.0.0.1 - - [26/Sep/2023 14:54:11] "POST /visualize HTTP/1.1" 200 -

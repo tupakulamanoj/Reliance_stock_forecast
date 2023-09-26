@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <title>Reliance Stock Price Forecasting</title>
+    </head>
+    <body>
+        <canvas id="Chart"></canvas>
+    
+        <script>
+            let data = {{ data | tojson }};
+            
+            const ctx = document.getElementById('Chart');
+            const ramchart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data["date"],
+                    datasets: [{
+                        label: "Open",
+                        data: data["open"],
+                        borderColor: "#fe4a49"
+                    },
+                    {
+                        label: "Low",
+                        data: data["low"],
+                        borderColor: "#2ab7ca"
+                    },
+                    {
+                        label: "High",
+                        data: data["high"],
+                        borderColor: "#fed766"
+                    },
+                    {
+                        label: "Close",
+                        data: data["close"],
+                        borderColor: "#79AC78"
+                    }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Reliance Future Stock Price Analysis',
+                            font: {
+                                size: 24
+                            }
+                        }
+                    },
+                    animations: {
+                        tension: {
+                          duration: 1000,
+                          easing: 'linear',
+                          from: 1,
+                          to: 0
+                        }
+                      },
+                }
+            });
+        </script>
+    </body>
+</html>

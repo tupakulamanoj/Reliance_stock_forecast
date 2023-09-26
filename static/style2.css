@@ -1,0 +1,47 @@
+.stock{
+    padding-inline: 2.75rem;
+    text-align: center;
+}
+.form{
+    text-align: center;
+   
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRaDCDOW7Q9Rtqbndd25r2uyQaE9uLDNlhQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 70px;      
+    
+}
+.body:hover{
+    padding:5vh;
+    box-shadow: 10px 10px;
+    border: 1px solid cadetblue;
+}
+
+
+.body{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    padding-bottom: 20px;
+    
+    opacity: 80%;
+    cursor:pointer;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+.submit{
+    padding: 10px;
+    opacity: 70%;
+}
+marquee{
+    font-size: 60px;
+}
